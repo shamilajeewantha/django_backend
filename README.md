@@ -23,7 +23,8 @@ Enter the following JSON:
 {
 "username": "testuser",
 "email": "test@example.com",
-"password": "testpassword123"
+"password": "testpassword123",
+"full_name": "jason mike"
 }
 
 Click Send
