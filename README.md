@@ -1,6 +1,7 @@
 pip install djangorestframework
 pip install djangorestframework-simplejwt
 python -m pip install Django
+pip install django-cors-headers
 
 <!-- del db.sqlite3 -->
 
